@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZR2uBj7MNI=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\HK6\\CNMPNC\\TH\\doancnpm\\CNPM-TH-CASE16\\DOAN-TH-CASE-16\\DOAN-TH-CASE-16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VITHANH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\VITHANH\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\VITHANH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\VITHANH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
